@@ -1,0 +1,16 @@
+
+/*begin body formatting*/
+
+.big-header h2{
+	text-align: center;
+	color: #ED1B30;
+	font-size: 35px;
+	margin: 0px 0px;
+	padding: 0px 0px;
+	display: none;
+}
+#content {
+	margin-left: 10%;
+	margin-right: 10%;
+	color:/* #f2f2f2;*/ #384955;
+}

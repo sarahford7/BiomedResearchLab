@@ -1,0 +1,22 @@
+
+/*begin body formatting*/
+.content h1{
+	text-align:center;
+
+}
+.postDoc{
+	background: #e8e0db;
+}
+
+.masters{
+	background:#e8e0db;
+}
+
+.alumni{
+	background:#e8e0db;
+}
+
+.member ul{
+	list-style: none;
+}
+/*end paragraph*/

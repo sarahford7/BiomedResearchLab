@@ -1,0 +1,31 @@
+
+
+/*begin body formatting*/
+h4 {
+	margin: 0;
+	text-align: left;
+	padding: 2% 10% 0 10%;
+	color: #384955;
+	font-size: 2em;
+}
+
+.floatLeft{
+	float: left;
+	padding-right: 15px;
+}
+
+.wording {
+	display: inline-block;
+	text-align: left;
+	white-space: pre-line;
+	color: #384955;
+	min-height: 100%;
+	margin-bottom: 10%;
+	padding: 0 10% 0 10%;
+	font-size: 17px;
+	overflow: hidden;
+}
+
+
+
+
