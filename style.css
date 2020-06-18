@@ -1,17 +1,60 @@
 
 
 /*begin body formatting*/
-h4 {
-	margin: 0;
-	text-align: left;
-	padding: 2% 10% 0 10%;
-	color: #384955;
-	font-size: 2em;
+.content{
+	position: relative;
+	display: inline-block;
+
+}
+
+.container{
+	position: relative;
+	display: inline-block;
+	width: 100%;
 }
 
 .floatLeft{
 	float: left;
-	padding-right: 15px;
+	width:100%;
+	height: auto;
+	position: relative;
+}
+
+.centered h3{
+	width: 100%;
+	position: absolute;
+	
+/*	transform: translate(0%, 50%);*/
+  	color: white;
+  	padding: 0px 5px;
+	font-size: 64px;
+	letter-spacing: 3px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align:center;
+
+}
+
+/*.content .photoHeader h4{
+	position: absolute;
+	z-index: 999;
+	margin: 0 auto;
+	left:0;
+	right: 0;
+	text-align: center;
+	color: white;
+	font-size: 64px;
+	letter-spacing: 3px;
+	top: 10%;
+	font-weight: bold;
+	text-transform: uppercase;
+}*/
+
+@media only screen and (max-width: 600px) {
+	.centered {
+		top:1%;
+		font-size: xxx-large;
+	}
 }
 
 .wording {

@@ -1,20 +1,17 @@
 
-.html {
-  scroll-behavior: smooth;
-}
 /*begin body formatting*/
 .content{
-	grid-column: 1 /4 ;
-	display: inline-grid;
+	/*grid-column: 1 /4 ;*/
+	overflow: hidden;
 }
 .sideNav {
 	display: grid;
- /* position: sticky;*/
+  position: sticky;
   background-color: #384955;
   overflow-x: hidden;
-  grid-column-start: 1;
-  grid-column-end: 2;
-  height: 100%
+/*  grid-column-start: 1;
+  grid-column-end: 2;*/
+  height: 100%;
 
 }
 .sideNav ul{
@@ -24,7 +21,7 @@
 	margin: 0px;
 	padding: 5px 5px;
 	height: 300px;
-/*	position:sticky;*/
+	position:sticky;
 }
 
 .sideNav ul li {
@@ -48,10 +45,11 @@
 .editText {
 	color: #384955;
 	padding: 10px 10px;
-	display: grid;
-	grid-column-start: 2;
-	grid-column-end: 4;
-	height: 100%
+/*	display: grid;*/
+/*	grid-column-start: 2;
+	grid-column-end: 4;*/
+	height: 100%;
+	float: right;
 }
 
 @media screen and (max-width: 800px) {
