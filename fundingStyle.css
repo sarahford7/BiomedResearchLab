@@ -1,5 +1,48 @@
 
 
-/*begin body formatting*/
 
-/*end paragraph*/
+.content h1 {
+	text-align: center;
+}
+/*
+.container{
+	column-count: 2;
+	column-width: 50%;
+	display: inline-grid;
+}
+
+.container .left{
+	/*column-span: 1;
+	grid-column-start: 1;
+	grid-column-end: 2;
+	grid-row-start: 2;
+	grid-row-end: 3;
+}
+
+.container .left h3{
+	text-align: center;
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+
+.container .right{
+	/*column-span: 1;
+	grid-column-start: 2;;
+	grid-column-end: 3;
+	grid-row-start: 2;
+	grid-row-end: 3;	
+}
+
+.container .right h3{
+	text-align: center;
+	grid-row-start: 1;
+	grid-row-end: 2;
+}
+
+ol{display: inline-block;}*/
+
+.container table {
+	font-weight: normal;
+	float: left;
+	color: blue;
+}
