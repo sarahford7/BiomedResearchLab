@@ -1,13 +1,15 @@
 
-
+.html {
+  scroll-behavior: smooth;
+}
 /*begin body formatting*/
-.bodyy{
+.content{
 	grid-column: 1 /4 ;
 	display: inline-grid;
 }
 .sideNav {
 	display: grid;
-  position: sticky;
+ /* position: sticky;*/
   background-color: #384955;
   overflow-x: hidden;
   grid-column-start: 1;
@@ -22,7 +24,7 @@
 	margin: 0px;
 	padding: 5px 5px;
 	height: 300px;
-	position:sticky;
+/*	position:sticky;*/
 }
 
 .sideNav ul li {
@@ -69,3 +71,14 @@
 }*/
 
 /*end paragraph*/
+
+
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  /*width: 100%;*/
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+
