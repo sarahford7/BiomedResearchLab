@@ -1,3 +1,16 @@
-/*begin body formatting*/
+.content{
+	position: relative;
+}
 
-/*end paragraph*/
+.card{
+	margin: 8px;
+}
+
+/*.card :hover{
+	border-color: black;
+}*/
+
+.row{
+	padding-left: 5%;
+	padding-right: 5%;
+}
