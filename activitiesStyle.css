@@ -13,6 +13,9 @@
 	margin: auto;
 }
 
+.releaseNum h2{
+	font-size: 3em;
+}
 
 .card{
 	margin: 8px;
