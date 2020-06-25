@@ -65,12 +65,12 @@ body {
 
 .topnav a:hover {
   background-color: #ED1B30; /*turns red with white wording when you hover over it*/
-  color: white;
+  color: #F4F5F4;
 }
 
 .topnav a.active {	/*top left home button is red with white wording*/
   background-color: #ED1B30;
-  color: white;
+  color: #F4F5F4;
 }
 
 .topnav .icon {
@@ -98,6 +98,8 @@ body {
     text-align: left;
   }
 }
+
+
 
 footer {
 
