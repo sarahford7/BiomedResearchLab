@@ -6,7 +6,10 @@
 	margin: 8px;
 }
 
-
+.card-footer{
+	background-color: #FFFBF4;
+	color: #B09C78;
+}
 
 .row{
 	padding-left: 5%;
