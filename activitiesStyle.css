@@ -8,9 +8,11 @@
 	justify-content: center;
 }
 
-/*.col{
-	position: relative;
-}*/
+.releaseNum .row h3{
+	text-align: center;
+	margin: auto;
+}
+
 
 .card{
 	margin: 8px;
