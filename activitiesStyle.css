@@ -2,6 +2,16 @@
 	position: relative;
 }
 
+
+.releaseNum{
+	text-align: center;
+	justify-content: center;
+}
+
+/*.col{
+	position: relative;
+}*/
+
 .card{
 	margin: 8px;
 }
