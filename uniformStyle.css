@@ -17,6 +17,7 @@ body {
 /*begin header formatting*/
 .big-header{
 	background: #F3EED9;
+  min-height: 10vh;
 }
 
 .big-header h1 {
@@ -99,10 +100,12 @@ body {
   }
 }
 
-
+.content{
+  min-height: 80vh;
+}
 
 footer {
-
+  min-height: 10vh;
   border-style: solid none none none;
   border-width: 2px;
   background-color: #ddd;
