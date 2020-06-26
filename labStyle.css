@@ -1,41 +1,13 @@
-
-
-
-.container h2{
+.content h2{
   text-align: center;
   color: black;
 }
 
 
-.container .btstrp{
-  margin: auto;
-  padding:5%;
-}
-
-
-.container .btstrp .card {
-  margin: auto;
-}
-
-
-
-.container .btstrp .card-title{
-  text-align: center;
-}
-
-.container .btstrp .card-text{ /* this positions hidden text*/
-	opacity: 0;
-}
 
 .card:hover{
 	transition: .2s ease;
-  z-index: 999;
 	background-color: #008CBA;
 }
 
 
-.card:hover .card-text{ /*styles text in boxes*/
-	/*background-color: #F3EED9;*/
-	opacity: 1;
-	transition: .2s ease;
-}

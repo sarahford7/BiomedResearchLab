@@ -3,15 +3,17 @@
 .content{
 	/*grid-column: 1 /4 ;*/
 	overflow: hidden;
+
 }
 .sideNav {
-	display: grid;
-  position: sticky;
+
+  position: absolute;
   background-color: #2C292E;
   overflow-x: hidden;
 /*  grid-column-start: 1;
   grid-column-end: 2;*/
   height: 100%;
+
 
 }
 .sideNav ul{
@@ -49,6 +51,7 @@
 /*	grid-column-start: 2;
 	grid-column-end: 4;*/
 	height: 100%;
+
 }
 
 @media screen and (max-width: 800px) {
