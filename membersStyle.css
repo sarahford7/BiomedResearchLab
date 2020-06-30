@@ -4,8 +4,13 @@
 	text-align:center;
 
 }
-.postDoc{
+.container{
+	width: 50vw;
+	margin-left: auto;
+	margin-right: auto;
 	background: #e8e0db;
+	border: 2px solid black;
+	border-radius: 5px;
 }
 
 .masters{
