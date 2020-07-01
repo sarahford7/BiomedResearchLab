@@ -8,8 +8,26 @@
 	text-align: center;
 }
 
+
+
 .sticky {
   position: fixed;
   top: 0;
   /*width: 100%;*/
 }
+
+.nav-pills .nav-link:not(.active){
+	/*background-color: red;*/
+	color: black;
+}
+
+.nav-pills .nav-link.active{
+	background-color: red;
+	color: white
+}
+
+.nav-pills .nav-link:hover{
+	/*background-color: green;*/
+	color: red;
+}
+

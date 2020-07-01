@@ -23,3 +23,7 @@
 	margin-right: auto;	
 }
 /*end paragraph*/
+.container ul li img {
+	height: 100px;
+	width: 92px;
+}
