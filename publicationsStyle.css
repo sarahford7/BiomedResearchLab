@@ -31,3 +31,6 @@
 	color: red;
 }
 
+.nav-pills .nav-link.active:hover{
+	color: white
+}
