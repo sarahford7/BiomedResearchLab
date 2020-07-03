@@ -7,7 +7,7 @@
 
 .card:hover{
 	transition: .2s ease;
-	background-color: #008CBA;
+	background-color: grey;
 }
 
 
