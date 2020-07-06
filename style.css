@@ -1,19 +1,31 @@
 
 
 /*begin body formatting*/
-.content{
+/*.content{
 	position: relative;
 	display: inline-block;
 
-}
+}*/
 
 .container{
-	position: relative;
-	display: inline-block;
+	padding: 0px 0px;
+	margin: 0px 0px;
+	max-width: 100%;
 	width: 100%;
 }
 
-.floatLeft{
+.container img {
+	width: 100%;
+	height: auto;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/*.floatLeft{
 	float: left;
 	width:100%;
 	height: auto;
@@ -23,8 +35,7 @@
 .centered h3{
 	width: 100%;
 	position: absolute;
-	
-/*	transform: translate(0%, 50%);*/
+
   	color: white;
   	padding: 0px 5px;
 	font-size: 64px;
@@ -36,7 +47,7 @@
   	right: 0;
   	top: 10%;
 
-}
+}*/
 
 /*.content .photoHeader h4{
 	position: absolute;
@@ -52,13 +63,13 @@
 	font-weight: bold;
 	text-transform: uppercase;
 }*/
-
+/*
 @media only screen and (max-width: 600px) {
 	.centered {
 		top:1%;
 		font-size: xxx-large;
 	}
-}
+}*/
 
 .wording {
 	display: inline-block;
