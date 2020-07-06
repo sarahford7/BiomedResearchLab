@@ -1,75 +1,11 @@
 
-
-/*begin body formatting*/
-/*.content{
-	position: relative;
-	display: inline-block;
-
-}*/
-
-.container{
-	padding: 0px 0px;
-	margin: 0px 0px;
-	max-width: 100%;
-	width: 100%;
-}
-
-.container img {
-	width: 100%;
-	height: auto;
-}
-
-.centered {
+.content .centered {
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
-/*.floatLeft{
-	float: left;
-	width:100%;
-	height: auto;
-	position: relative;
-}
 
-.centered h3{
-	width: 100%;
-	position: absolute;
-
-  	color: white;
-  	padding: 0px 5px;
-	font-size: 64px;
-	letter-spacing: 3px;
-	font-weight: bold;
-	text-transform: uppercase;
-	text-align:center;
-	left: 0;
-  	right: 0;
-  	top: 10%;
-
-}*/
-
-/*.content .photoHeader h4{
-	position: absolute;
-	z-index: 999;
-	margin: 0 auto;
-	left:0;
-	right: 0;
-	text-align: center;
-	color: white;
-	font-size: 64px;
-	letter-spacing: 3px;
-	top: 10%;
-	font-weight: bold;
-	text-transform: uppercase;
-}*/
-/*
-@media only screen and (max-width: 600px) {
-	.centered {
-		top:1%;
-		font-size: xxx-large;
-	}
-}*/
 
 .wording {
 	display: inline-block;
