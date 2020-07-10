@@ -15,6 +15,7 @@
 
 .container h3 {
 	text-align: center;
+	padding-top: 10px;
 }
 
 .container .member {
@@ -26,4 +27,8 @@
 .container ul li img {
 	height: 100px;
 	width: 92px;
+}
+
+.container:hover h3{
+	color: #ED1B30
 }
