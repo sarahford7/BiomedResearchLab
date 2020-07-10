@@ -104,6 +104,11 @@ body {
   min-height: 80vh;
 }
 
+.content h1{
+  text-align: center;
+  color: #2C292E;
+}
+
 .content p {
   color: #2C292E;
 }

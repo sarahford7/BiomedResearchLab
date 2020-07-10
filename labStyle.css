@@ -1,13 +1,6 @@
-.content h2{
-  text-align: center;
-  color: black;
-}
-
-
-
 .card:hover{
 	transition: .2s ease;
-	background-color: grey;
+	background-color: #f4f5f4;
 }
 
 
