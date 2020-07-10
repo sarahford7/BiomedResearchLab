@@ -3,12 +3,9 @@
 	padding: 0 5vh 5vh 0vh;
 }
 
-
 .content h1{
 	text-align: center;
 }
-
-
 
 .sticky {
   position: fixed;
@@ -22,13 +19,13 @@
 }
 
 .nav-pills .nav-link.active{
-	background-color: red;
+	background-color: #ED1B30;
 	color: white
 }
 
 .nav-pills .nav-link:hover{
 	/*background-color: green;*/
-	color: red;
+	color: #ED1B30;
 }
 
 .nav-pills .nav-link.active:hover{
