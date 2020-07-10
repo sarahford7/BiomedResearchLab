@@ -104,6 +104,12 @@ body {
   min-height: 80vh;
 }
 
+.content p {
+  color: #2C292E;
+}
+
+
+
 footer {
   min-height: 10vh;
   border-style: solid none none none;
