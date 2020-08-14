@@ -2,7 +2,7 @@
 /*begin body formatting*/
 .content h1{
 	text-align:center;
-	font-family: 'Noto Sans';
+	/*font-family: 'Noto Sans';*/
 }
 
 .container{
@@ -17,11 +17,11 @@
 .container h3 {
 	text-align: center;
 	padding-top: 10px;
-	font-family: 'Lato';
+	/*font-family: 'Lato';*/
 }
 
 .container h5 {
-	font-family: 'Lato';
+/*	font-family: 'Lato';*/
 }
 
 .container .member {
@@ -31,7 +31,7 @@
 }
 
 .container li {
-	font-family: 'Roboto';
+/*	font-family: 'Roboto';*/
 }
 
 .container ul li img {
