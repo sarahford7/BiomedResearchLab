@@ -1,24 +1,22 @@
+.content h1{
+	text-align:center;
 
-.content .centered {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-size: 6vw;
-  white-space: nowrap;
-  overflow: none;
 }
 
-.wording {
-	display: inline-block;
-	text-align: left;
+.container{
+
 	white-space: pre-line;
 	color: #384955;
-	min-height: 100%;
+	margin-top: 0;
 	margin-bottom: 10%;
-	padding: 0 10% 0 10%;
 	font-size: 17px;
 	overflow: hidden;
+}
+
+.content img{
+	float: left;
+	margin: 10px 10px;
+	
 }
 
 
