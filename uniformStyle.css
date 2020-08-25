@@ -153,4 +153,8 @@ footer p {
   text-align: center;
 }
 
+footer a {
+  text-decoration: none;
+  color: #2C292E
+}
 
