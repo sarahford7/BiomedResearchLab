@@ -9,7 +9,7 @@
 	width: 70vw;
 	margin-left: auto;
 	margin-right: auto;
-	background: #e8e0db;
+	background: /*#e8e0db;*/ #E9E7DA;
 	border: 2px solid black;
 	border-radius: 5px;
 }
