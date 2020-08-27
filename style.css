@@ -3,14 +3,9 @@
 
 }
 
-.container{
-
-	white-space: pre-line;
-	color: #384955;
-	margin-top: 0;
-	margin-bottom: 10%;
+.container p{
 	font-size: 17px;
-	overflow: hidden;
+	margin-bottom:10%;
 }
 
 .content img{
